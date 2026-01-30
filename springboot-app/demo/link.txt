@@ -1,0 +1,4 @@
+https://docs.spring.io/spring-boot/how-to/native-image/developing-your-first-application.html
+https://www.graalvm.org/22.1/reference-manual/native-image/Limitations/
+https://www.graalvm.org/latest/introduction/
+https://www.baeldung.com/spring-native-intro
