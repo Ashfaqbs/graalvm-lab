@@ -1,0 +1,13 @@
+
+- Setting the Gral JDK Path :
+
+
+❯❯ demo  16:48 $env:JAVA_HOME="C:\openjdk\graalvm-jdk-17"
+❯❯ demo  16:48 $env:PATH="$env:JAVA_HOME\bin;$env:PATH"
+❯❯ demo  16:48 java --version
+java 17.0.18 2026-01-20 LTS
+Java(TM) SE Runtime Environment Oracle GraalVM 17.0.18+8.1 (build 17.0.18+8-LTS-jvmci-23.0-b80)
+Java HotSpot(TM) 64-Bit Server VM Oracle GraalVM 17.0.18+8.1 (build 17.0.18+8-LTS-jvmci-23.0-b80, mixed mode, sharing)
+
+
+
