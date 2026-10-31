@@ -1,0 +1,3 @@
+Js Community - https://mvnrepository.com/artifact/org.graalvm.js/js-community
+Polyglot    -  https://mvnrepository.com/artifact/org.graalvm.polyglot/polyglot
+Python Community Polyglot - https://mvnrepository.com/artifact/org.graalvm.polyglot/python-community
